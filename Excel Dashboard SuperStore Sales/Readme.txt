@@ -1,3 +1,7 @@
+This project belongs to Sohaib Ahmed Sipra
+Linkedin: https://www.linkedin.com/in/sohaib-ahmed-sipra/
+
+
 About the dashboard:
 ✓ First of all, the dashboard includes a bar chart for the top 10 best performing products in a given time period.
 ✓ Secondly, you can view the order density by region.
