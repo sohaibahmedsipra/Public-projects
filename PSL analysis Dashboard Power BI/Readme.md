@@ -30,10 +30,10 @@
 
 ![Screen Shot](https://github.com/sohaibahmedsipra/public-projects/blob/main/PSL%20analysis%20Dashboard%20Power%20BI/Pictures/Overall.png?raw=true)
 
--> Data analysis is very important to extract important and meaningful information from a given set of data. 
--> PAKISTAN SUPER LEAGUE (PSL) is right around the corner. 
--> The league has already had 7 seasons and this power BI project analyzes those seasons to produce useful information.
--> One can analyze the best players, the best teams, locations for the first 7 seasons.
+-> Data analysis is very important to extract important and meaningful information from a given set of data. <br>
+-> PAKISTAN SUPER LEAGUE (PSL) is right around the corner. <br>
+-> The league has already had 7 seasons and this power BI project analyzes those seasons to produce useful information. <br>
+-> One can analyze the best players, the best teams, locations for the first 7 seasons. <br>
 
 ## Built With
 
@@ -41,11 +41,8 @@ Power BI desktop + service
 
 ## Getting Started
 
--> Download the attached Power BI report.
+-> Download the attached Power BI report. </br>
 -> The report uploaded can be run on Power BI desktop or Power BI service. 
-    
-    -> A homepage will be displayed to navigate to the other pages
-    -> a back button on all the pages is present to return to the main page
 
 ### Prerequisites
 
