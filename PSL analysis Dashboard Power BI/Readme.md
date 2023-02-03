@@ -61,6 +61,15 @@ Power BI desktop + service
 
 -> A homepage will be displayed to navigate to the other pages<br>
 -> a back button on all the pages is present to return to the main page<br>
+-> filters on each page which are pretty self explanatory<br>
+- PAGES AND WHAT THEY CONTAIN<br><br>
+    -> PAGE 1: HOMEPAGE (navigate to other pages + credits)<br>
+    -> PAGE 2: Overall Performance (visualizations for highest scoring players, highest wicket takers, best team w.r.t wins and titles accross all seasons)<br>
+    -> PAGE 3: Performance by season (displays the performance of teams and players w.r.t seasons)<br>
+    -> PAGE 4: Batting by season (added cards and charts to show the best average, strike rate, top runs in the seasons by use of a slicer)<br>
+    -> PAGE 5: Bowling by season (added cards and charts to show the best economy, most maidens, most wickets in a season by use of a slicer)<br>
+    -> PAGE 6: Statistics by Location (visualizing the ground that suited a team most in a particular season, use of slicer/ season filter)<br>
+
 
 
 
