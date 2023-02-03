@@ -28,7 +28,10 @@
 
 ## About The Project
 
-![Screen Shot](https://github.com/sohaibahmedsipra/public-projects/blob/main/PSL%20analysis%20Dashboard%20Power%20BI/Pictures/Overall.png?raw=true)
+![Screen Shot](https://github.com/sohaibahmedsipra/public-projects/blob/main/PSL%20analysis%20Dashboard%20Power%20BI/Pictures/Homepage.png?raw=true)
+![Screen Shot](https://github.com/sohaibahmedsipra/public-projects/blob/main/PSL%20analysis%20Dashboard%20Power%20BI/Pictures/Performance.png?raw=true)
+
+
 
 -> Data analysis is very important to extract important and meaningful information from a given set of data. <br>
 -> PAKISTAN SUPER LEAGUE (PSL) is right around the corner. <br>
