@@ -46,19 +46,19 @@ Power BI desktop + service
 
 ### Prerequisites
 
--> The report uploaded can be run on Power BI desktop or Power BI service. 
+-> The report uploaded can be run on Power BI desktop or Power BI service. <br>
 
 ### Installation
 
--> Open Power BI desktop or Power BI service.
--> Click File
--> Click Open
--> Open the report in Power BI.
+-> Open Power BI desktop or Power BI service.<br>
+-> Click File<br>
+-> Click Open<br>
+-> Open the report in Power BI.<br>
 
 ## Usage
 
--> A homepage will be displayed to navigate to the other pages
--> a back button on all the pages is present to return to the main page
+-> A homepage will be displayed to navigate to the other pages<br>
+-> a back button on all the pages is present to return to the main page<br>
 
 
 
