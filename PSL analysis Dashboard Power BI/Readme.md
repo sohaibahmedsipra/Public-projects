@@ -63,16 +63,8 @@ Power BI desktop + service
 -> A homepage will be displayed to navigate to the other pages
 -> a back button on all the pages is present to return to the main page
 
-### Creating A Pull Request
-
 
 
 ## Authors
 
 * **Sohaib Ahmed** - *BS SE FAST* - [Sohaib Ahmed](https://www.linkedin.com/in/sohaib-ahmed-sipra/) - *Developer of the Dashboard*
-
-## Acknowledgements
-
-* []()
-* []()
-* []()
